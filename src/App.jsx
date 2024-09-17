@@ -1,5 +1,6 @@
 import './App.css'
-import NavBar from './components/NavBar'
+import ContactInfo from './components/ContactInfo/ContactInfo'
+import NavBar from './components/NavBar/NavBar'
 
 function App() {
   
@@ -7,6 +8,7 @@ function App() {
   return (
     <div>
       <NavBar />
+      <ContactInfo />
     </div>
   )
 }
