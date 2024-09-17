@@ -12,17 +12,3 @@ body{
   max-width: 1280px;
   margin: 0 auto;
 }
-nav{
-  display: flex;
-  justify-content: center;
-  height: 72px;
-}
-
-nav ul{
-  display: flex;
-  list-style: none;
-  gap: 50px;
-  padding: 0 8px;
-  font-weight: 500;
-  
-}
